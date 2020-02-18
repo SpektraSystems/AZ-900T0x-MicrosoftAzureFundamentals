@@ -45,7 +45,6 @@ In this task, we will create a Blob container and upload a blob file.
 
 2. Click **+ Container** and complete the information. Use the Information icons to learn more. When done click **OK**.
 
-
     | Setting | Value |
     | --- | --- |
     | Name | **container1**  |
