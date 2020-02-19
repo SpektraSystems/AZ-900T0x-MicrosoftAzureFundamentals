@@ -105,7 +105,6 @@ In this task, we will allow ICMP connections and test whether the virtual machin
    ```PowerShell
    ping vm2
    ```
-   
    ![Screenshot of PowerShell command prompt with the command ping vm2 after its completion and the output indicating the command wasn't successful.](../images/0302.png)
    
    **Note**: You will now open an RDP session to vm2 and allow incoming ICMP connections
