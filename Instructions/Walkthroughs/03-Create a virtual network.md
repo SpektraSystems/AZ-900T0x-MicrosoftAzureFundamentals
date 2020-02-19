@@ -101,7 +101,6 @@ In this task, we will allow ICMP connections and test whether the virtual machin
 
 8. Try to ping vm2 (make sure vm2 is running). You will receive an error, saying request timed out.  The `ping` fails, because `ping` uses the **Internet Control Message Protocol (ICMP)**. By default, ICMP isn't allowed through the Windows firewall.
 
-
    ```PowerShell
    ping vm2
    ```
