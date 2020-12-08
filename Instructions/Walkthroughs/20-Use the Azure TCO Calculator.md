@@ -1,8 +1,3 @@
----
-wts:
-    title: '20 - Use the Azure TCO Calculator'
-    module: 'Module 04 - Azure Pricing and Support'
----
 # 20 - Use the Azure TCO Calculator
 
 
