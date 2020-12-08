@@ -1,8 +1,3 @@
----
-wts:
-    title: '15 - Manage access with RBAC'
-    module: 'Module 03 - Security, Privacy, Compliance and Trust'
----
 # 15 - Manage access with RBAC
 
 In this walkthrough, we will assign roles and view activity logs. 
