@@ -1,8 +1,3 @@
----
-wts:
-    title: '11 - Create a VM with the CLI'
-    module: 'Module 02 - Core Azure Services'
----
 # 11 - Create a VM with the CLI
 
 In this walkthrough, we will install the Azure CLI locally, create a resource group and virtual machine, use the Cloud Shell, and review Azure Advisor recommendations. 
