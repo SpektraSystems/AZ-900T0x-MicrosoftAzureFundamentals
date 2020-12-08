@@ -1,8 +1,3 @@
----
-wts:
-    title: '22 - Calculate Composite SLAs'
-    module: 'Module 04 - Azure Pricing and Support'
----
 # 22 - Calculate Composite SLAs
 
 
