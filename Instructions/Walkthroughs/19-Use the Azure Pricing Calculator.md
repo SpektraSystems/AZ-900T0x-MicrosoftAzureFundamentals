@@ -1,8 +1,3 @@
----
-wts:
-    title: '19 - Use the Azure Pricing Calculator'
-    module: 'Module 04 - Azure Pricing and Support'
----
 # 19 - Use the Pricing Calculator
 
 In this walkthrough, we will use the Azure Pricing Calculator to generate a cost estimate for an Azure virtual machine and related network resources.
