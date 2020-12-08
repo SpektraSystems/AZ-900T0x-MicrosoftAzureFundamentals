@@ -1,8 +1,3 @@
----
-wts:
-    title: '18 - Explore the Trust Center'
-    module: 'Module 03-Security, Privacy, Compliance and Trust'
----
 # 18 - Explore the Trust Center
 
 In this walkthrough, we will access the Trust Center, Service Trust Portal (STP), and Compliance Manager.
