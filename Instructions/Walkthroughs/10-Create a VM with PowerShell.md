@@ -1,8 +1,3 @@
----
-wts:
-    title: '10 - Create a VM with PowerShell'
-    module: 'Module 02 - Core Azure Services'
----
 # 10 - Create a VM with PowerShell
 
 In this walk-through, we will install Azure PowerShell module, use it to create a resource group and virtual machine, configure and use the Cloud Shell, and review Azure Advisor recommendations. 
