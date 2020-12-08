@@ -1,8 +1,3 @@
----
-wts:
-    title: '21 - Open a Support Request'
-    module: 'Module 04 - Azure Pricing and Support'
----
 # 21 - Open a Support Request
 
 
