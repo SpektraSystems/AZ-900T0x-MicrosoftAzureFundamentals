@@ -1,8 +1,3 @@
----
-wts:
-    title: '17 - Implement resource tagging'
-    module: 'Module 03 - Security, Privacy, Compliance and Trust'
----
 # 17 - Implement resource tagging
 
 In this walkthrough, we will create a policy assignment that requires tagging, created a storage account and test the tagging, view resources with a specified tag, and remove the tagging policy.
