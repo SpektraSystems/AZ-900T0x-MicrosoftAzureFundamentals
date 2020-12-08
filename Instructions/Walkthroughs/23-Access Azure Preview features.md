@@ -1,9 +1,3 @@
----
-wts:
-    title: '23 - Access Azure Preview features'
-    module: 'Module 04 - Azure Pricing and Support'
----
-
 # 23 - Access Azure Preview features
 
 In this walkthrough, we will access and identify Azure preview services and features, and view information about the latest Azure updates.
